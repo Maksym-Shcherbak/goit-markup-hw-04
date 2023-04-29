@@ -315,6 +315,9 @@ img {
   margin-bottom: 16px;
 }
 
+.footer-text {
+  max-width: 264px;
+}
 /*Style for page Portfolio*/
 
 .our-projects {
